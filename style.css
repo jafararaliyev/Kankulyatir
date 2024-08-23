@@ -1,0 +1,237 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-color: black;
+}
+.calkun{
+    width: 400px;
+    height: 150px;
+    background-color: white;
+    margin: auto;
+    margin-top: 40px;
+}
+.pass{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    margin: auto;
+    margin-top: -20px;
+}
+.pass1{
+    width: 200px;
+    height: 100px;
+    background-color: pink;
+    border: 1px solid black;
+    transition: .5s;
+}
+.pass1:hover{
+    background-color: rgb(150, 144, 144);
+    transform: scale(1.1);
+}
+
+.pass2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(68, 64, 64);
+    margin-left: 200px;
+    margin-top: -100px;
+    border: 1px solid black;
+    
+}
+.pass2:hover{
+    background-color: rgb(150, 144, 144);
+    transform: scale(1.1);
+}
+.pass3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(68, 64, 64);
+    margin-left: 300px;
+    margin-top: -100px;
+    border: 1px solid black;
+}
+.pass3:hover{
+    background-color: rgb(150, 144, 144);
+    transform: scale(1.1);
+}
+.pass4{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(68, 64, 64);
+    border: 1px solid black;
+}
+.pass4:hover{
+    background-color: rgb(150, 144, 144);
+    transform: scale(1.1);
+}
+.pass5{
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    background-color: rgb(68, 64, 64);
+    border: 1px solid black;
+    margin-top: -100px;
+}
+.pass5:hover{
+    background-color: rgb(150, 144, 144);
+    transform: scale(1.1);
+    
+}
+.pass6{
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+    background-color: rgb(68, 64, 64);
+    border: 1px solid black;
+    margin-top: -100px;
+}
+.pass6:hover{
+    background-color: rgb(150, 144, 144);
+    transform: scale(1.1);
+}
+.pass7{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(68, 64, 64);
+    margin-left: 300px;
+    margin-top: -100px;
+    border: 1px solid black;
+}
+.pass7:hover{
+    background-color: rgb(150, 144, 144);
+    transform: scale(1.1);
+}
+.pass8{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(68, 64, 64);
+    border: 1px solid black;
+}
+.pass8:hover{
+    background-color: rgb(150, 144, 144);
+    transform: scale(1.1);
+}
+.pass9{
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    background-color: rgb(68, 64, 64);
+    border: 1px solid black;
+    margin-top: -100px;
+}
+
+
+.pass9:hover{
+    background-color: rgb(150, 144, 144);
+    transform: scale(1.1);
+}
+.pass10{
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+    background-color: rgb(68, 64, 64);
+    border: 1px solid black;
+    margin-top: -100px;
+}
+.pass10:hover{
+    background-color: rgb(150, 144, 144);
+        transform: scale(1.1)}
+.pass11{
+    width: 100px;
+    height: 200px;
+    background-color: rgb(68, 64, 64);
+    margin-left: 300px;
+    margin-top: -100px;
+    border: 1px solid black;
+}
+.pass11:hover{
+    background-color: rgb(150, 144, 144);
+    transform: scale(1.1);
+}
+.pass12{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(68, 64, 64);
+    border: 1px solid black;
+    margin-top: -100px; 
+}
+.pass12:hover{
+    background-color: rgb(150, 144, 144);
+    transform: scale(1.1);
+}
+.pass13{
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    background-color: rgb(68, 64, 64);
+    border: 1px solid black;
+    margin-top: -100px; 
+}
+.pass13:hover{
+    background-color: rgb(150, 144, 144);
+    transform: scale(1.1);
+}
+.pass14{
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+    background-color: rgb(68, 64, 64);
+    border: 1px solid black;
+    margin-top: -100px;
+}
+.pass14:hover{
+    background-color: rgb(150, 144, 144);
+    transform: scale(1.1);
+}
+.pass15{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(68, 64, 64);
+    border: 1px solid black;
+}
+.pass15:hover{
+    background-color: rgb(150, 144, 144);
+    transform: scale(1.1);
+}
+.pass16{
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    background-color: rgb(68, 64, 64);
+    border: 1px solid black;
+    margin-top: -100px;
+}
+.pass16:hover{
+    background-color: rgb(150, 144, 144);
+    transform: scale(1.1);
+}
+.pass17{
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+    background-color: rgb(68, 64, 64);
+    border: 1px solid black;
+    margin-top: -100px;
+}
+.pass17:hover{
+    background-color: rgb(150, 144, 144);
+    transform: scale(1.1);
+}
+.pass18{
+    width: 100px;
+    height: 100px;
+    margin-left: 300px;
+    background-color: rgb(68, 64, 64);
+    border: 1px solid black;
+    margin-top: -100px;
+}
+.pass18:hover{
+    background-color: rgb(150, 144, 144);
+    transform: scale(1.1);
+}
+
+
